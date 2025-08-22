@@ -39,8 +39,8 @@
 
 ### 1. Клонировать репозиторий
 ```bash
-git clone https://github.com/username/pingpong-asyncio.git
-cd pingpong-asyncio
+git clone https://github.com/Rocket-coder/hh_tcp_task.git
+cd hh_tcp_task
 ```
 
 ### 2. Запустить
