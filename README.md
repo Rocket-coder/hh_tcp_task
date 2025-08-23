@@ -37,13 +37,13 @@
 ## Запуск
 Требуется Python **3.10+**
 
-### 1. Клонировать репозиторий
+### 1. Клонирование репозиторя
 ```bash
 git clone https://github.com/Rocket-coder/hh_tcp_task.git
 cd hh_tcp_task
 ```
 
-### 2. Запустить
+### 2. Запуск
 Windows:
 ```bash
 python run.py
@@ -68,6 +68,7 @@ python3 run.py
 - client1.log
 - client2.log
 
+В директории **example_logs** находятся примеры таких логов.
 ## Пример вывода в консоли
 
 ```
